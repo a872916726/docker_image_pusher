@@ -1,2 +1,2 @@
-linuxserver/homeassistant:latest
+linuxserver/homeassistant
 --platform=linux/amd64-
