@@ -1,2 +1,1 @@
-linuxserver/homeassistant
---platform=amd64
+linuxserver/homeassistant:2025.3.3
