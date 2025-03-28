@@ -1,2 +1,2 @@
 linuxserver/homeassistant
---platform=linux/amd64-
+--platform=linux/arm64v8-
