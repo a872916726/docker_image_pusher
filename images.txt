@@ -1,1 +1,1 @@
-linuxserver/homeassistant
+linuxserver/homeassistant--platform=amd64
